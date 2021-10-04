@@ -1,2 +1,4 @@
 def plus(a,b):
-    a+b
+    return a+b
+def sub(a,b):
+    return a-b
